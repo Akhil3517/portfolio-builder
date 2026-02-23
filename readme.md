@@ -35,26 +35,6 @@ Built with a scalable architecture separating frontend and backend for future Sa
 
 ---
 
-## 📂 Project Structure
-
-portfolio-builder/
-│
-├── frontend/        # React application
-│   ├── src/
-│   ├── package.json
-│   └── .env
-│
-├── backend/         # Node + Express server
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   ├── middleware/
-│   ├── server.js
-│   └── .env
-│
-└── README.md
-
----
 
 ## ⚙️ Environment Variables
 
